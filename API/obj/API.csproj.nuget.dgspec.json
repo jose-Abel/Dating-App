@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -58,6 +58,12 @@
               "noWarn": [
                 "NU1605"
               ]
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
