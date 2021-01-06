@@ -31,6 +31,7 @@ namespace API
     public void ConfigureServices(IServiceCollection services)
     {
       services.AddScoped<ITokenService, TokenService>();
+      
       services.AddDbContext<DataContext>(options =>
       {
         options.UseSqlite(_config.GetConnectionString("DefaultConnection"));
