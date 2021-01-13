@@ -30,7 +30,7 @@ const routes: Routes = [
 
   {path: 'server-error', component: ServerErrorComponent},
 
-  {path: '**', component: HomeComponent, pathMatch: 'full'},
+  {path: '**', component: NotFoundComponent, pathMatch: 'full'},
 ];
 
 @NgModule({
