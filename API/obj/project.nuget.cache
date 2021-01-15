@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r9dsM/J1mc31x2MGXoNj4l+81IQQLUsZ+JvMZH0gO7fGJjcdz3aqBfGUNWGKmHyZGyubG/SiAkKdc7QzTB4TNQ==",
+  "dgSpecHash": "rozON/eQTWzv4XlJJTH3qtFCBDedglGMEPw4d8/J+EczYmXLIRYTR82HyODGKmtvJ1tPJPibUeF3AyXkv3KEvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
