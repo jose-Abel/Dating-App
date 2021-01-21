@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Jr45NuTqjIHt0HrrI9zO3p5eTwMLR7vYdCKle+cIBESRDAe6q4VkiMz922mNXWM7RUk+yKQLKaIQ60YJCHSwBA==",
+  "dgSpecHash": "JYcMP4scz/ieoKv7Rm4KKV+KI0FezsoYyl8j8P3rgVT11NGsGokGsGn4ZkaR2G6xWJtGQv/f1/9bJ4mxSasHaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Owner\\Desktop\\Toshiba\\Udemy\\Build an app with ASP.NET Core and Angular from scratch\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\cloudinarydotnet\\1.14.0\\cloudinarydotnet.1.14.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",
@@ -36,6 +37,7 @@
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
