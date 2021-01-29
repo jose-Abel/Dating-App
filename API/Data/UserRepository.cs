@@ -44,7 +44,6 @@ namespace API.Data
 
       query = query.Where(u => u.DateOfBirth >= minDob && u.DateOfBirth <= maxDob);
 
-
       return await PagedList<MemberDto>.CreateAsync(query.ProjectTo<MemberDto>(_mapper.ConfigurationProvider).AsNoTracking(),
       userParams.PageNumber, userParams.PageSize);
     }
