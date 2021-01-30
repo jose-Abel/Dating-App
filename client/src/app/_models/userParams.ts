@@ -1,3 +1,5 @@
+import { User } from "./user";
+
 export class UserParams {
   gender: string;
   minAge = 18;
