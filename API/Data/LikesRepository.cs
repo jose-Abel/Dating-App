@@ -28,7 +28,7 @@ namespace API.Data
 
       var likes = _context.Likes.AsQueryable();
 
-      if (predicate == 'liked')
+      if (predicate == "liked")
       {
         likes = likes.Where(like => like.SourceUserId == userId);
 
